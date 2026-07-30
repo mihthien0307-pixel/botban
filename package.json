@@ -1,0 +1,10 @@
+{
+  "name": "zbot-canvas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Phần render ảnh bằng Node canvas cho zbot (song song với Pillow)",
+  "main": "src/services/canvas/drawTopChat.js",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  }
+}
